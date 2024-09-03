@@ -10,4 +10,12 @@ main p img{
   border:1px solid #4a4734;
   margin:20px;
   width:700px;
+  height:auto;
+}
+main p{
+  border:1px solid #4a4734;
+  border-radius:20px;
+  margin:50px;
+  padding:20px;
+  font-size:24px;
 }
