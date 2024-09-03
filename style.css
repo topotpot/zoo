@@ -6,3 +6,8 @@ header{
   color:#4a4734
   font-size:50px;
 }
+main p img{
+  border:1px solid #4a4734;
+  margin:20px;
+  width:700px;
+}
